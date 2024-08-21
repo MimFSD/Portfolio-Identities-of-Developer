@@ -130,7 +130,7 @@ const Navbar = () => {
       <div className="navbar-end">
         <a
           className="btn  mr-3"
-          href="https://drive.google.com/file/d/1XW4TbniIu-ViCAmbRdoUlyZOJztRfPOe/view?usp=sharing"
+          href="https://drive.google.com/file/d/1_WvqAjJNAVpaOHyoSjTUXjsnrGDa2sHB/view"
         >
           resume
         </a>
