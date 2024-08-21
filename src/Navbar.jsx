@@ -128,11 +128,15 @@ const Navbar = () => {
         <ul className="menu menu-horizontal px-1 lg:flex">{links}</ul>
       </div>
       <div className="navbar-end">
-        <a
+        {/* <a
           className="btn  mr-3"
-          href="https://drive.google.com/file/d/1_WvqAjJNAVpaOHyoSjTUXjsnrGDa2sHB/view"
-        >
-          resume
+          href="/src/assets/Mim-Islam-web-developer.pdf" target="_blank" download >
+          Download Resume
+        </a> */}
+         <a
+          className="btn  mr-3"
+          href="https://drive.google.com/file/d/1_WvqAjJNAVpaOHyoSjTUXjsnrGDa2sHB/view" target="_blank" download >
+          Download Resume
         </a>
       </div>
     </div>
