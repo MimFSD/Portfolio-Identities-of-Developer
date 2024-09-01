@@ -135,7 +135,7 @@ const Navbar = () => {
         </a> */}
          <a
           className="btn  mr-3"
-          href="https://drive.google.com/file/d/1_WvqAjJNAVpaOHyoSjTUXjsnrGDa2sHB/view" target="_blank" download >
+          href="https://drive.google.com/file/d/1T7IuJxZiuulCJ0VvuCWtEQH3p_LwpxQP/view?usp=sharing" target="_blank" download >
           Download Resume
         </a>
       </div>
